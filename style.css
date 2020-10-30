@@ -1,0 +1,55 @@
+body{
+    background-color:turquoise ;
+}
+h1{
+    color: yellow;
+    display: flex;
+    justify-content: centre;
+}
+.header{
+    background-color:#1A62D7;
+    display: flex;
+    justify-content: centre;
+}
+.origami{
+    background-color:#faf604;
+  
+}
+.teddy{
+    display: flex;
+    justify-content: centre;
+    
+}
+.Cicada{
+    
+    display: flex;
+    justify-content: centre;
+}
+.Chameleon{   
+    display: flex;
+    justify-content: centre;
+}
+.panda{
+       
+    display: flex;
+    justify-content: centre;
+
+}
+.pigeon{
+       
+    display: flex;
+    justify-content: centre;
+
+}
+.camel{
+       
+    display: flex;
+    justify-content: centre;
+
+}
+.item{
+   margin-left:  50px;
+   margin-top: 20px ;
+}
+.item * { border: solid ;}
+
